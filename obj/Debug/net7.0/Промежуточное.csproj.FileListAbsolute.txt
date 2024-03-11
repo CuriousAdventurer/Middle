@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.AssemblyInfo.cs
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Промежуточное\bin\Debug\net7.0\Промежуточное.exe
+C:\Users\User\Desktop\Промежуточное\bin\Debug\net7.0\Промежуточное.deps.json
+C:\Users\User\Desktop\Промежуточное\bin\Debug\net7.0\Промежуточное.runtimeconfig.json
+C:\Users\User\Desktop\Промежуточное\bin\Debug\net7.0\Промежуточное.dll
+C:\Users\User\Desktop\Промежуточное\bin\Debug\net7.0\Промежуточное.pdb
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.dll
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\refint\Промежуточное.dll
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.pdb
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\Промежуточное.genruntimeconfig.cache
+C:\Users\User\Desktop\Промежуточное\obj\Debug\net7.0\ref\Промежуточное.dll
